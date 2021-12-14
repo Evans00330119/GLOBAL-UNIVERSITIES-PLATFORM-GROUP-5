@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152314312451",
+    "project_id": "gup-application",
+    "storage_bucket": "gup-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152314312451:android:122d17c8ec701803a55b36",
+        "android_client_info": {
+          "package_name": "com.example.gup_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152314312451-2qe46b04dg6u4jgojj56ibm9l5j0to69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gup_application",
+            "certificate_hash": "4d08fff9e9f57ba58b4844fa5d5077166fc58799"
+          }
+        },
+        {
+          "client_id": "152314312451-319r545lnuvjnm3s1eomf0rta6cpdn95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMtjDSEUUYln3hpLsjpaib7zeqUrBi3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152314312451-319r545lnuvjnm3s1eomf0rta6cpdn95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
